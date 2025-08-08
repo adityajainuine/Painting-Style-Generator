@@ -1,0 +1,10 @@
+diffusers
+transformers
+accelerate
+bitsandbytes
+sentencepiece
+ftfy
+gradio
+torch
+torchvision
+torchaudio
